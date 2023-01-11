@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("Local Changes")
 
         println("Change 2")
+        println("Hello from your friend")
     }
 }
